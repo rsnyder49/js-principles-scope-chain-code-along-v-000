@@ -13,6 +13,6 @@ function overWriteBestCustomer() {
   bestCustomer = "maybe bob";
 }
 
-function reassignLeastFavoriteCustomer() {
+function changeLeastFavoriteCustomer() {
   
 }
