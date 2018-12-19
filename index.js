@@ -13,4 +13,3 @@ function overWriteBestCustomer() {
   bestCustomer = "maybe bob";
 }
 
-function 
